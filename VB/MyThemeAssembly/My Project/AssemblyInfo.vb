@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Reflection
+﻿Imports System.Reflection
 Imports System.Runtime.CompilerServices
 Imports System.Runtime.InteropServices
 Imports System
@@ -44,7 +43,7 @@ Imports DevExpress.Web.ASPxClasses
 <Assembly: AssemblyVersion("1.0.0.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
 
-<Assembly: WebResource("MyThemeAssembly.App_Themes.MyVioletTheme.styles.css", "text/css", PerformSubstitution:=True)> 
+<Assembly: WebResource("MyThemeAssembly.App_Themes.MyVioletTheme.styles.css", "text/css", PerformSubstitution := True)>
 <Assembly: WebResource("MyThemeAssembly.App_Themes.MyVioletTheme.nbCollapse.png", "image/png")>
 <Assembly: WebResource("MyThemeAssembly.App_Themes.MyVioletTheme.nbExpand.png", "image/png")>
 <Assembly: WebResource("MyThemeAssembly.App_Themes.MyVioletTheme.nbGroupHeaderBack.gif", "image/gif")>

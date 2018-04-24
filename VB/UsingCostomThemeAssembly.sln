@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyThemeAssembly", "MyThemeAssembly\MyThemeAssembly.vbproj", "{207A3CB0-0AFE-4398-9B39-B21DB3E59653}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MyThemeAssembly", "MyThemeA
 	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "d:\...\UsingCostomThemeDll\", "UsingCostomThemeDll\", "{999F2FF1-CACC-47FB-B5FB-A88D32E988A8}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\UsingCostomThemeDll\", "UsingCostomThemeDll\", "{999F2FF1-CACC-47FB-B5FB-A88D32E988A8}"
 	ProjectSection(WebsiteProperties) = preProject
 		ProjectReferences = "{207A3CB0-0AFE-4398-9B39-B21DB3E59653}|MyThemeAssembly.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/UsingCostomThemeDll"
@@ -24,7 +24,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "d:\...\UsingCostomThemeDll\
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "50294"
+		VWDPort = "53579"
 	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 EndProjectSection
 EndProject
