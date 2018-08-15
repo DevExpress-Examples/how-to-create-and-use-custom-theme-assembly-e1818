@@ -1,10 +1,7 @@
-# How to create and use custom theme assembly
+# [OBSOLETE] How to create and use a custom theme assembly
 
 
-<p>This example demonstrates how to create and use a custom theme assembly, which is useful for storing the source files of customly modified DevExpress autoformats.</p><p><strong>See Also:</strong><br />
-<a href="http://documentation.devexpress.com/#AspNet/CustomDocument7044">Creating a Custom Theme Assembly</a> help topic<br />
-<a href="http://documentation.devexpress.com/#AspNet/CustomDocument7068">Applying a Theme from a Custom Theme Assembly</a> help topic</p>
-
-<br/>
+## This example is dedicated to an obsolete approach. If your DevExpress version is newer than 12.1, we recommend the solution from the [Attaching a Custom Theme Assembly](https://docs.devexpress.com/AspNet/16728/common-concepts/appearance-customization-theming/attaching-a-custom-theme-assembly) article
 
 
+The project is a **duplicate** of the [How to use a custom theme assembly](https://github.com/DevExpress-Examples/how-to-use-custom-theme-assembly-e1764) repository and is not maintained. If you need to use the old approach, refer to [How to use a custom theme assembly](https://github.com/DevExpress-Examples/how-to-use-custom-theme-assembly-e1764).
